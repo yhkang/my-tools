@@ -36,6 +36,21 @@
 
 ### Sublime Text
 
+## Command Line Apps
+
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
+- [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+
+- alias
+
+```bash
+alias cdtmp='cd $(mktemp -d /tmp/tmp-XXXXXX)'
+alias setproxy='export ALL_PROXY=http://127.0.0.1:1080'
+alias unsetproxy='unset ALL_PROXY'
+alias myip='curl myip.ipip.net'
+```
+
 
 
 ## Password
