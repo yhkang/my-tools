@@ -44,6 +44,15 @@
 
 
 
+## Blog
+
+### Hexo
+
+![Icarus](assets/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png)
+
+- theme [icarus](https://github.com/ppoffice/hexo-theme-icarus)
+- use Github Action to automatic generate and deploy blog: [HexoCI](https://gist.github.com/yhkang/302736e8c73d4d9b5d5b30260b268770)
+
 ## Related
 
 - https://github.com/nikitavoloboev/my-mac-os
