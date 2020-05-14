@@ -66,7 +66,26 @@ alias myip='curl myip.ipip.net'
 ![Icarus](assets/68747470733a2f2f70706f66666963652e6769746875622e696f2f6865786f2d7468656d652d6963617275732f67616c6c6572792f707265766965772e706e673f31.png)
 
 - theme [icarus](https://github.com/ppoffice/hexo-theme-icarus)
+- [hexo-all-minifier](https://github.com/chenzhutian/hexo-all-minifier)
 - use Github Action to automatic generate and deploy blog: [HexoCI](https://gist.github.com/yhkang/302736e8c73d4d9b5d5b30260b268770)
+
+
+
+## Chrome
+
+禁用mac版chrome自带双指手势前进后退功能
+
+```
+鼠标
+
+defaults write com.google.Chrome AppleEnableMouseSwipeNavigateWithScrolls -bool false
+
+触控板
+
+defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool false
+```
+
+
 
 ## Related
 
